@@ -4,6 +4,8 @@
 
 Hunger is a global issue, where millions of people around the world have insufficient access to adequate food. According to the [UN Hunger Report](http://www.fao.org/publications/sofi/en/), the number of people globally who are are experiencing severe food insecurity — meaning that they go for entire days without eating due to lack of money, lack of access to food, or other resources, has been slowly rising since 2014. Use this starter kit to build applications to address the real-world challenge of global hunger by enabling independant farmers. The starter kit provides tools and resources from our experts to help you jump-start your own solution.
 
+A fome é um problema global, onde milhões de pessoas em todo o mundo não têm acesso a alimentos adequados. De acordo com o Relatório da Fome da ONU , o número de pessoas globalmente que sofrem de insegurança alimentar grave - o que significa que passam dias inteiros sem comer por falta de dinheiro, falta de acesso a alimentos ou outros recursos, tem aumentado lentamente desde 2014. Use este kit inicial para construir aplicativos para enfrentar o desafio do mundo real da fome global, capacitando agricultores independentes. O kit inicial fornece ferramentas e recursos de nossos especialistas para ajudá-lo a iniciar sua própria solução
+
 ## Contents
 
 1. [Background](#background)
